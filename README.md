@@ -1,0 +1,2 @@
+# IndexOutOfRangeException in Dart
+This repository demonstrates a common error in Dart: the `IndexOutOfRangeException`.  The `bug.dart` file contains code that attempts to access an element in a list using an index that is out of bounds. The `bugSolution.dart` file provides a solution to handle this exception and prevent the program from crashing.  This example highlights the importance of checking array indices before accessing elements to ensure the program's robustness. 
